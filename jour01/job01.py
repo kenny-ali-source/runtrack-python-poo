@@ -6,3 +6,4 @@ class Operation:
 
 operation_instance = Operation()
 print(operation_instance)
+
