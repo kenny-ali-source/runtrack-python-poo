@@ -69,7 +69,6 @@ joueur1.marquerUnBut()
 joueur2.effectuerUnePasseDecisive()
 joueur3.recevoirUnCartonJaune()
 
-
 equipe1.afficherStatistiquesJoueurs()
 equipe2.afficherStatistiquesJoueurs()
 
